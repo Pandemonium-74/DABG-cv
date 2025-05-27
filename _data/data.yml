@@ -8,24 +8,24 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Richard Blake
+  name: Drahcir Blanco
   tagline: Matematico | Analista de Datos
   avatar: RichardBlake.jgep #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: dabg@gmail.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: blancodrahcir@gmail.com
+  phone: 55 16 988 271756
+  timezone: Brasil/Salvador de Bahia # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
+  # website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  linkedin: manifolds47
+  # xing: alandoe
+  github: Pandemonium-74
+  #telegram: # add your nickname without '@' sign
+  #gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  #bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  #twitter: '@jekyllrb'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,14 +37,14 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: Spanish
-      level: Native
+    - idiom: Español
+      level: Nativo
 
     - idiom: Portugues 
       level: Avanzado 
 
-    - idiom: English 
-      level: Professional
+    - idiom: Inglés
+      level: Profesional
 
   interests:
     title: Interests
@@ -62,20 +62,23 @@ sidebar:
 
 
 career-profile:
-  title: Career Profile
+  title: Perfil de carreira
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Graduado em Ciências Matemáticas com uma sólida formação em álgebra, 
+    cálculo diferencial, integral e vetorial, além de geometria básica e 
+    diferencial. Possuo conhecimento avançado em programação com \Rlang\: e \Py,
+    e experiência em análise de dados e modelagem matemática. Com forte 
+    capacidade para resolver problemas complexos, apliquei minhas habilidades 
+    em otimização matemática e métodos numéricos em diversas áreas, desde pesquisas
+    acadêmicas até projetos de análise de dados na indústria. Meu objetivo é continuar 
+    desenvolvendo minhas habilidades e aplicar meu conhecimento para resolver desafios 
+    interdisciplinares em matemática e ciência de dados. 
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Mestre em Matemática
+    university: Universidade Federal da Bahia, UFBA, Brasil
+    time: 2021 - 2023
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
